@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "username": "Amad",
+      "password": "1234",
+      "email": "amad@mail.com",
+      "id": 1
+    },
+    {
+      "username": "Fahim",
+      "password": "fahim1234",
+      "email": "fahim@mail.com",
+      "id": 2
+    }
+  ],
+  "todos": [
+    
+    {
+      "title": "ahmad should push the solution",
+      "desc": "create exercise about express app",
+      "date": "23.03.2023",
+      "id": 3,
+      "authorid": 1
+    },
+    {
+      "title": "dejan developer",
+      "desc": "he is great developer but not JS REACTOR EXPRESS SCHWARZI",
+      "date": "23.03.2023",
+      "id": 4,
+      "authorid": 1
+    }
+  ]
+}
